@@ -9,5 +9,5 @@ It protects the system safely and precisely by allowing you to block IPs or port
 
 It is also possible to specify for you a whitelist for IPs and ports.
 
-#### New
+#### What's new
 Added also sockets.
